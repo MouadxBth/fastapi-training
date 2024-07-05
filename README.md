@@ -1,1 +1,1 @@
-# This is a series of project to hone my python skills
+# This is a series of projects to hone my python skills
